@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johng117
 - 👀 I’m interested in coding, football, music
-- 🌱 I’m currently learning github, html, css, javascript
+- 🌱 I’m currently learning github, html, css, javascript, node, react, sql(soon)
 - 💞️ I’m looking to collaborate on all of my projects
 - 📫 How to reach me here
 
